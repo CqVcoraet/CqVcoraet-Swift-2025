@@ -8,6 +8,5 @@ This project is for the  Student Swift Challenge happening in early 2025. Thi
 
 # App Compatibilty
 The app is compatible with the following platforms:
-macOS
-iPadOS
+macOS, iPadOS
 
