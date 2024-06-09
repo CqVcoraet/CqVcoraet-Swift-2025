@@ -5,3 +5,9 @@ The use of the Apple logo in this project is for non-commercial, educational pur
 
 #  Swift Student Challenge 2025
 This project is for the  Student Swift Challenge happening in early 2025. This page is subject to change for updates.
+
+# App Compatibilty
+The app is compatible with the following platforms:
+macOS
+iPadOS
+
